@@ -1,6 +1,6 @@
 # DateKit
 
-Date and formatter extensions
+Date and formatter extensions. See details in wiki. 
 
 [![Swift5 compatible][Swift5Badge]][Swift5Link]
 [![SPM compatible][SPMBadge]][SPMLink]
